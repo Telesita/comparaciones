@@ -9,3 +9,5 @@
 	3.2 Si son iguales sigue comparando uno a uno
 4.- Regresamos un true
 5.- Fin
+
+![Esta es la imágen del diagrama](diagrama.jpg)
