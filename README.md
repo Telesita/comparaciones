@@ -10,4 +10,4 @@
 4.- Regresamos un true
 5.- Fin
 
-![Esta es la imágen del diagrama](diagrama.jpg)
+![Esta es la imágen del diagrama](Diagrama.jpg)
